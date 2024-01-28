@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A71F7D58-043B-45E9-AD08-70931C3D1A80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D6AE13F-B750-46CD-A84F-3F4FF087CF31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Service/DatabaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "saveData(podCast:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D6AE13F-B750-46CD-A84F-3F4FF087CF31 - 4920a4af9b7eeb9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DatabaseService.saveData(podCast: PodPlayer.PodcastParsedData) -&gt; Swift.Result&lt;PodPlayer.Podcast, Swift.Error&gt;"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Service/DatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "6D6AE13F-B750-46CD-A84F-3F4FF087CF31 - 4920a4af9b7eeb7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DatabaseService.saveData(podCast: PodPlayer.PodcastParsedData) -&gt; Swift.Result&lt;PodPlayer.Podcast, Swift.Error&gt;"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Service/DatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "792">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E86B539-8449-4649-92BF-27728CD036F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Service/DatabaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "saveData(podCast:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E86B539-8449-4649-92BF-27728CD036F4 - 4920a4af9b7ee810"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DatabaseService.saveData(podCast: PodPlayer.PodcastParsedData) -&gt; Swift.Result&lt;PodPlayer.Podcast, Swift.Error&gt;"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Service/DatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "6E86B539-8449-4649-92BF-27728CD036F4 - 4920a4af9b7eebff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DatabaseService.saveData(podCast: PodPlayer.PodcastParsedData) -&gt; Swift.Result&lt;PodPlayer.Podcast, Swift.Error&gt;"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Service/DatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E2FD365-6973-49BF-8CDF-836D5BFD0BEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Controller/PodcastVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "remvoveBtnPressed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E2FD365-6973-49BF-8CDF-836D5BFD0BEC - 155bdf9f0c1faa3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.PodcastVC.remvoveBtnPressed() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/PodcastVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "7E2FD365-6973-49BF-8CDF-836D5BFD0BEC - 155bdf9f0c1faa3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.PodcastVC.remvoveBtnPressed() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/PodcastVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "7E2FD365-6973-49BF-8CDF-836D5BFD0BEC - 155bdf9f0c1faa3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.PodcastVC.remvoveBtnPressed() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/PodcastVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF7FD877-A92B-4E91-8D95-CE20224A3B3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Controller/DetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "playBtnClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF7FD877-A92B-4E91-8D95-CE20224A3B3B - 2025ca2c01d98529"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVC.playBtnClicked(Any) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "DF7FD877-A92B-4E91-8D95-CE20224A3B3B - 2025ca2c01d986e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVC.playBtnClicked(Any) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "658AFF4F-2706-45D8-9F7D-17B13C7C3046"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Controller/DetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "playBtnClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "658AFF4F-2706-45D8-9F7D-17B13C7C3046 - 2025ca2c01d9856f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVC.playBtnClicked(Any) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "658AFF4F-2706-45D8-9F7D-17B13C7C3046 - 2025ca2c01d98621"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVC.playBtnClicked(Any) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "089F318A-8C3C-4E5B-A053-16D1B5FAF21C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/ViewModel/DetailVCViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "playEpisode(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "089F318A-8C3C-4E5B-A053-16D1B5FAF21C - beb35ba5411e871c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVCViewModel.playEpisode(url: Swift.String) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/ViewModel/DetailVCViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "089F318A-8C3C-4E5B-A053-16D1B5FAF21C - beb35ba5411e87c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVCViewModel.playEpisode(url: Swift.String) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/ViewModel/DetailVCViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2D4EB41-DBCF-420C-9BF0-AC0DE7C28C1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/ViewModel/DetailVCViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "playEpisode(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2D4EB41-DBCF-420C-9BF0-AC0DE7C28C1B - beb35ba5411e86fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVCViewModel.playEpisode(url: Swift.String) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/ViewModel/DetailVCViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "E2D4EB41-DBCF-420C-9BF0-AC0DE7C28C1B - beb35ba5411e8798"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PodPlayer.DetailVCViewModel.playEpisode(url: Swift.String) -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/ViewModel/DetailVCViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDB9404A-76A1-49A8-BCC0-BC96B1BC8F07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Controller/DetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "setupBinding()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDB9404A-76A1-49A8-BCC0-BC96B1BC8F07 - f6a08c5fef06f8d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PodPlayer.PodcastParsedData&gt;) -&gt; () in PodPlayer.DetailVC.setupBinding() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+               <Location
+                  uuid = "EDB9404A-76A1-49A8-BCC0-BC96B1BC8F07 - f6a08c5fef06f9ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PodPlayer.PodcastParsedData&gt;) -&gt; () in PodPlayer.DetailVC.setupBinding() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0043FF94-55FC-42AE-ACA6-C8A5E12E14C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PodPlayer/Controller/DetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "setupBinding()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0043FF94-55FC-42AE-ACA6-C8A5E12E14C2 - f6a08c5fef06f871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PodPlayer.PodcastParsedData&gt;) -&gt; () in PodPlayer.DetailVC.setupBinding() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1996">
+               </Location>
+               <Location
+                  uuid = "0043FF94-55FC-42AE-ACA6-C8A5E12E14C2 - f6a08c5fef06f92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PodPlayer.PodcastParsedData&gt;) -&gt; () in PodPlayer.DetailVC.setupBinding() -&gt; ()"
+                  moduleName = "PodPlayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/saibalaji/Documents/SwiftUI/untitled%20folder/SwiftUI/100DaysOfSwiftUI/AppKitTutorial/PodPlayer/PodPlayer/Controller/DetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "2548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
